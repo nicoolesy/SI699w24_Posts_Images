@@ -18,6 +18,3 @@ Our research methodology involved a two-pronged approach: statistical analysis a
 - Jingjie Wan | Department of Information | University of Michigan | Ann Arbor, MI | iriswan@umich.edu
 
 Feel free to reach out with any questions or suggestions!
-
-
-(Code and data files can also be found in the following link: https://drive.google.com/drive/folders/1lEer0BCPQ5ajxRYln9mIC4ygby24KhoG?usp=sharing)
